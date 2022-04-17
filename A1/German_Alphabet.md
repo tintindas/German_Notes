@@ -1,0 +1,34 @@
+# German Alphabet
+
+| Letter | Pronunciation |
+| :----: | :-----------: |
+|   a    |      ahh      |
+|   b    |      be       |
+|   c    |      tse      |
+|   d    |      de       |
+|   e    |      eh       |
+|   f    |      εf       |
+|   g    |      ge       |
+|   h    |      ha       |
+|   i    |       i       |
+|   j    |      jot      |
+|   k    |      ka       |
+|   l    |      εl       |
+|   m    |      εm       |
+|   n    |      εn       |
+|   o    |       o       |
+|   p    |      pe       |
+|   q    |      ku       |
+|   r    |      εr       |
+|   s    |      εs       |
+|   t    |      te       |
+|   u    |      uh       |
+|   v    |      fau      |
+|   w    |      ve       |
+|   x    |      iks      |
+|   y    |    ypsilεn    |
+|   z    |     tset      |
+|   ä    |      ae       |
+|   ö    |      oe       |
+|   ü    |      ue       |
+|   ß    |      ss       |
