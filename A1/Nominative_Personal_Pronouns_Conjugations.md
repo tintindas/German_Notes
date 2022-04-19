@@ -68,3 +68,54 @@ E.g:
 |               1st person plural                |    wir    |  arbeiten   |
 |               2nd person plural                |    ihr    |  arbeitet   |
 | 2nd person singular (formal)/3rd person plural |  Sie/sie  |  arbeiten   |
+
+### Type 3 Conjugations (for irregular verbs)
+
+**Rule** - The stem of the verb changes for 2nd person **du** and 3rd person **er/sie/es**. Endings are the same as Type 1 conjugations.
+
+E.g:
+
+fahren - to ride
+
+|                                                |  Pronoun  | Conjugation |
+| :--------------------------------------------: | :-------: | :---------: |
+|              1st person singular               |    ich    |    fahre    |
+|              2nd person singular               |    du     |   fährst    |
+|              3rd person singular               | er/sie/es |    fährt    |
+|               1st person plural                |    wir    |   fahren    |
+|               2nd person plural                |    ihr    |    fahrt    |
+| 2nd person singular (formal)/3rd person plural |  Sie/sie  |   fahren    |
+
+**Stem Changes**
+
+- e -> i
+- e -> ie
+- a -> ä
+- au -> äu
+- i -> ei
+
+E.g:
+
+lesen - to read
+
+|                                                |  Pronoun  | Conjugation |
+| :--------------------------------------------: | :-------: | :---------: |
+|              1st person singular               |    ich    |    lese     |
+|              2nd person singular               |    du     |    liest    |
+|              3rd person singular               | er/sie/es |    liest    |
+|               1st person plural                |    wir    |    lesen    |
+|               2nd person plural                |    ihr    |    lest     |
+| 2nd person singular (formal)/3rd person plural |  Sie/sie  |    lesen    |
+
+Irregular verbs:
+
+- nehmen - to take
+- treffen - to meet
+- geben - to give
+- essen - to eat
+- helfen - to help
+- sehen - to see
+- laufen - to walk/run
+- schlafen - to sleep
+- waschen - to wash
+- wissen - to know
