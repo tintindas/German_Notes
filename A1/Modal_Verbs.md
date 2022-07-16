@@ -35,3 +35,13 @@ Modal verbs are conjugated and the main verb goes to the end in the infinitive f
 |  sie/Sie  |   mögen   | möchten  | dürfen | können | müssen | sollen | wollen |
 
 **Note** - The first person and thrid person conjugations are the same for the modal verbs.
+
+## Examples
+
+- Ihr dürft nicht hier trinken.
+- Können Sie Englisch sprechen.
+- Du musst Wasser trinken.
+- Wir möchten vier Biere.
+- Ich will Weltfrieden.
+- Ich mag jeden Tag einen Apfel essen.
+- Du sollst schlafen gehen.
