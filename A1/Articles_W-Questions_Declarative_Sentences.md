@@ -44,6 +44,12 @@
 - **Was** - What
 - **Welche** - Which
 
+**Examples**:
+
+- Wie heißt du?
+- Wer bist du?
+- Was ist das?
+
 ---
 
 #### New Words and Phrases
@@ -60,6 +66,11 @@
 ## Aussagesatz - Declarative sentence
 
 **Rule** - The verb will be in the second place in the conjugated form in a declarative sentence.
+
+**Examples**:
+
+- Der Mann ist klug.
+- Heute ist es sonnig.
 
 ---
 
